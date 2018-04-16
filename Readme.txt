@@ -5,6 +5,7 @@ Prerequisites to run:
 System should have setup to support java maven project. That is
 1) Java Runtime environment configured in system.
 2) Install and configure Maven.
+3) Google chrome and firefox should be installed in system
 
 Key feature of Framework:
 1) Use of Open source test automation tool selenium
@@ -18,6 +19,7 @@ Key feature of Framework:
 
 Testcases:
 Under TestCases foler test cases are written in plain english language using (gherkin keywwords) in .feature files.
+Test cases can be execluded from test run by using @ignore test annotation.
 
 Stepdefination:
 This is the package where actual java code is written to tranlate the test case steps into automation script
@@ -29,7 +31,7 @@ Pagelibrary:
 This is the package contaning Java class which represent pages in appilication.This class contain all webelement locaters
 
 Utility:
-This package conating helper classes.
+This package conatain helper classes.
 
 Log: Log of test execution is created under Log folder
 
