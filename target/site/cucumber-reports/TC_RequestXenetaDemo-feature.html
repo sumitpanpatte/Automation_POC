@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cucumber-JVM Html Reports - Feature: Request Demo Page </title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript" src="jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="bootstrap.min.js"></script>
+
+<script type="text/javascript" src="highcharts.js"></script>
+<script type="text/javascript" src="highcharts-3d.js"></script>
+
+<link rel="stylesheet" href="bootstrap.min.css" type="text/css"/>
+
+<link rel="stylesheet" href="reporting.css" type="text/css"/>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#tablesorter").tablesorter();
+});
+</script>
+
+
+
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navigation">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse">
+      <p class="navbar-text navbar-left">Cucumber-jvm Report</p>
+      <ul class="nav navbar-nav navbar-right">
+                <li role="presentation" ><a href="feature-overview.html">Features</a></li>
+        <li role="presentation" ><a href="tag-overview.html">Tags</a></li>
+        <li role="presentation" ><a href="step-overview.html">Steps</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid" id="summary">
+  <div class="row">
+    <div class="col-md-6">
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Project</th>
+                          <th>Number</th>
+                        <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="info">
+            <td>BasicAutomationFramwork-master</td>
+                          <td>42</td>
+                        <td>16 Apr 2018, 22:14</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid" id="title">
+  <h2>Feature Report</h2>
+  </div>
+
+
+<div class="container-fluid" id="report-summary">
+  <table class="stats-table">
+    <thead>
+  <tr class="header">
+        <th></th>
+    <th id="stats-header-scenarios" colspan="3">Scenarios</th>
+    <th id="stats-header-steps" colspan="7">Steps</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th id="stats-header-key">Feature</th>
+        <th id="stats-header-scenarios-total">Total</th>
+    <th id="stats-header-scenarios-passed">Passed</th>
+    <th id="stats-header-scenarios-failed">Failed</th>
+    <th id="stats-header-steps-total">Total</th>
+    <th id="stats-header-steps-passed"    class="passed">Passed</th>
+    <th id="stats-header-steps-failed"    class="failed">Failed</th>
+    <th id="stats-header-steps-skipped"   class="skipped">Skipped</th>
+    <th id="stats-header-steps-pending"   class="pending">Pending</th>
+    <th id="stats-header-steps-undefined" class="undefined">Undefined</th>
+    <th id="stats-header-steps-missing"   class="missing">Missing</th>
+    <th id="stats-header-duration">Duration</th>
+    <th id="stats-header-status">Status</th>
+  </tr>
+</thead>
+
+        <tr>
+      <td class="tagname"><a id="stats-Request Demo Page" href="TC_RequestXenetaDemo-feature.html">Request Demo Page</a></td>
+            <td id="stats-number-scenarios-Request Demo Page">3</td>
+      <td id="stats-number-scenarios-passed-Request Demo Page">3</td>
+      <td id="stats-number-scenarios-failed-Request Demo Page">0</td>
+      <td id="stats-number-steps-Request Demo Page">14</td>
+      <td id="stats-number-steps-passed-Request Demo Page">14</td>
+      <td id="stats-number-steps-failed-Request Demo Page"    >0</td>
+      <td id="stats-number-steps-skipped-Request Demo Page"   >0</td>
+      <td id="stats-number-steps-pending-Request Demo Page"   >0</td>
+      <td id="stats-number-steps-undefined-Request Demo Page" >0</td>
+      <td id="stats-number-steps-missing-Request Demo Page"   >0</td>
+      <td id="stats-duration-Request Demo Page" class="duration-format">40s 788ms</td>
+      <td id="stats-status-Request Demo Page" class="passed">Passed</td>
+    </tr>
+  </table>
+</div>
+
+
+<div class="container-fluid" id="report-details">
+  <div class="feature-tags"></div>
+  <div class="passed">
+    <div class="feature-line">
+      <span class="feature-keyword">Feature: </span>Request Demo Page
+    </div>
+  </div>
+  <div class="feature-description"></div>
+
+      <div class="feature-tags"></div>
+    <div class="passed"><span class="step-keyword">Before </span><i>SmokeSteps.beforeScenario()</i><span class="step-duration"></span></div>
+    <div class="passed"><span class="element-keyword">Scenario Outline: </span><span class="element-name">TC002-Verify system throws error message when any of the input box are not field</span></div>
+          <div class="passed"><span class="step-keyword">Given  </span><span class="step-name">user navigates to request demo page</span><span class="step-duration">09s 684ms</span></div>
+      
+            <div></div>
+      <div></div>
+          <div class="passed"><span class="step-keyword">When  </span><span class="step-name">user eneters &quot;&quot; &quot;&quot; &quot;xyz&quot; &quot;IT&quot; &quot;abc.dgt1@dmt.com&quot; &quot;9987&quot;</span><span class="step-duration">02s 463ms</span></div>
+      
+            <div></div>
+      <div></div>
+          <div class="passed"><span class="step-keyword">And  </span><span class="step-name">user selects from drop down &quot;Shipper/BCO&quot; &quot;Less than 500&quot; &quot;C-Level FRANK&quot;</span><span class="step-duration">01s 328ms</span></div>
+      
+            <div></div>
+      <div></div>
+          <div class="passed"><span class="step-keyword">And  </span><span class="step-name">user clicks on Subscribe xeneta toggle button</span><span class="step-duration">442ms</span></div>
+      
+            <div></div>
+      <div></div>
+          <div class="passed"><span class="step-keyword">And  </span><span class="step-name">User clicks on submit</span><span class="step-duration">458ms</span></div>
+      
+            <div></div>
+      <div></div>
+          <div class="passed"><span class="step-keyword">Then  </span><span class="step-name">Please complete all required fields message should be displayed</span><span class="step-duration">02s 172ms</span></div>
+      
+            <div></div>
+      <div></div>
+        <div class="passed"><span class="step-keyword">After </span><i>SmokeSteps.afterScenario()</i><span class="step-duration"></span></div>
+    <br>
+      <div class="feature-tags"></div>
+    <div class="passed"><span class="step-keyword">Before </span><i>SmokeSteps.beforeScenario()</i><span class="step-duration"></span></div>
+    <div class="passed"><span class="element-keyword">Scenario Outline: </span><span class="element-name">TC003-Verify system throws error message whem email id is incorrect format</span></div>
+          <div class="passed"><span class="step-keyword">Given  </span><span class="step-name">user navigates to request demo page</span><span class="step-duration">10s 412ms</span></div>
+      
+            <div></div>
+      <div></div>
+          <div class="passed"><span class="step-keyword">When  </span><span class="step-name">user eneters &quot;abc&quot;</span><span class="step-duration">480ms</span></div>
+      
+            <div></div>
+      <div></div>
+          <div class="passed"><span class="step-keyword">And  </span><span class="step-name">User clicks on submit</span><span class="step-duration">474ms</span></div>
+      
+            <div></div>
+      <div></div>
+          <div class="passed"><span class="step-keyword">Then  </span><span class="step-name">Email must be formatted correctly message should be displayed</span><span class="step-duration">02s 188ms</span></div>
+      
+            <div></div>
+      <div></div>
+          <div class="passed"><span class="step-keyword">And  </span><span class="step-name">Please complete all required fields message should be displayed</span><span class="step-duration">02s 168ms</span></div>
+      
+            <div></div>
+      <div></div>
+        <div class="passed"><span class="step-keyword">After </span><i>SmokeSteps.afterScenario()</i><span class="step-duration"></span></div>
+    <br>
+      <div class="feature-tags"></div>
+    <div class="passed"><span class="step-keyword">Before </span><i>SmokeSteps.beforeScenario()</i><span class="step-duration"></span></div>
+    <div class="passed"><span class="element-keyword">Scenario: </span><span class="element-name">TC005-Verify links to navigate to other webpages of Xeneta are present in footer</span></div>
+          <div class="passed"><span class="step-keyword">Given  </span><span class="step-name">user navigates to request demo page</span><span class="step-duration">07s 742ms</span></div>
+      
+            <div></div>
+      <div></div>
+          <div class="passed"><span class="step-keyword">Then  </span><span class="step-name">Data Method, Customers, Our Company, Careers</span><span class="step-duration">564ms</span></div>
+      
+            <div></div>
+      <div></div>
+          <div class="passed"><span class="step-keyword">And  </span><span class="step-name">Press, Terms of Service links are present in footer</span><span class="step-duration">206ms</span></div>
+      
+            <div></div>
+      <div></div>
+        <div class="passed"><span class="step-keyword">After </span><i>SmokeSteps.afterScenario()</i><span class="step-duration"></span></div>
+    <br>
+  </div>
+
+<nav class="navbar navbar-default" id="footer">
+  <div class="container-fluid">
+    <p class="navbar-text navbar-right">
+      <a class="navbar-link" href="https://github.com/jenkinsci/cucumber-reports-plugin">Jenkins Plugin</a> |
+      <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-reporting">Cucumber-JVM Reports</a>
+    </p>
+  </div>
+</nav>
+
+</body>
+</html>

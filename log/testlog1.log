@@ -1,0 +1,1733 @@
+2018-04-13 00:00:57,837 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:01:17,143 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:01:18,237 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-13 00:01:18,238 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-13 00:01:20,634 [main] INFO stepdefination.MediaResource -   Verify language changed to Deutsch   
+2018-04-13 00:01:22,682 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:01:23,832 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:01:36,354 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:01:38,981 [main] INFO stepdefination.MediaResource -   Verify Scroll to product screesnshot   
+2018-04-13 00:01:41,334 [main] INFO stepdefination.MediaResource -   Verify Scroll to Xeneta Logo   
+2018-04-13 00:01:43,656 [main] INFO stepdefination.MediaResource -   Verify Scroll to spokpersons link   
+2018-04-13 00:01:45,914 [main] INFO stepdefination.MediaResource -   Verify Scroll to Founders section   
+2018-04-13 00:01:48,199 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:01:49,040 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:02:00,196 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:02:01,734 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-13 00:02:02,098 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-13 00:02:02,389 [main] INFO stepdefination.MediaResource -   Verify successful mesg  
+2018-04-13 00:02:05,478 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:02:06,320 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:02:17,697 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:02:19,332 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-13 00:02:19,659 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-13 00:02:19,938 [main] INFO stepdefination.MediaResource -   Verify error mesg  
+2018-04-13 00:02:21,983 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:02:22,828 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:02:33,109 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:02:34,354 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-13 00:02:34,670 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-13 00:02:34,970 [main] INFO stepdefination.MediaResource -   Verify error mesg  
+2018-04-13 00:02:37,031 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:03:55,610 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:04:08,622 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:04:09,658 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-13 00:04:09,659 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-13 00:04:11,127 [main] INFO stepdefination.MediaResource -   Verify language changed to Deutsch   
+2018-04-13 00:04:13,155 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:04:13,986 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:04:25,525 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:04:28,408 [main] INFO stepdefination.MediaResource -   Verify Scroll to product screesnshot   
+2018-04-13 00:04:30,693 [main] INFO stepdefination.MediaResource -   Verify Scroll to Xeneta Logo   
+2018-04-13 00:04:32,946 [main] INFO stepdefination.MediaResource -   Verify Scroll to spokpersons link   
+2018-04-13 00:04:35,208 [main] INFO stepdefination.MediaResource -   Verify Scroll to Founders section   
+2018-04-13 00:04:37,457 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:04:38,273 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:04:49,457 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:04:50,556 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-13 00:04:51,062 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-13 00:04:51,320 [main] INFO stepdefination.MediaResource -   Verify successful mesg  
+2018-04-13 00:04:54,387 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:04:55,234 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:05:05,219 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:05:06,741 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-13 00:05:07,199 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-13 00:05:07,448 [main] INFO stepdefination.MediaResource -   Verify error mesg  
+2018-04-13 00:05:09,527 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:05:10,363 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:05:20,348 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:05:21,595 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-13 00:05:22,032 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-13 00:05:22,303 [main] INFO stepdefination.MediaResource -   Verify error mesg  
+2018-04-13 00:05:24,371 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:12:20,128 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:12:32,716 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:12:33,584 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-13 00:12:33,585 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-13 00:12:41,823 [main] INFO stepdefination.MediaResource -   Verify language changed to Deutsch   
+2018-04-13 00:12:43,876 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:12:44,801 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:12:53,027 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:12:54,405 [main] INFO stepdefination.MediaResource -   Verify Scroll to product screesnshot   
+2018-04-13 00:12:56,797 [main] INFO stepdefination.MediaResource -   Verify Scroll to Xeneta Logo   
+2018-04-13 00:12:59,069 [main] INFO stepdefination.MediaResource -   Verify Scroll to spokpersons link   
+2018-04-13 00:13:01,365 [main] INFO stepdefination.MediaResource -   Verify Scroll to Founders section   
+2018-04-13 00:13:03,661 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:13:04,440 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:13:15,680 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:13:18,563 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-13 00:13:18,996 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-13 00:13:19,240 [main] INFO stepdefination.MediaResource -   Verify successful mesg  
+2018-04-13 00:13:22,291 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:13:23,211 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:13:41,357 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:13:44,513 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-13 00:13:44,943 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-13 00:13:45,181 [main] INFO stepdefination.MediaResource -   Verify error mesg  
+2018-04-13 00:13:47,244 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:13:48,041 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:13:58,281 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:13:59,629 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-13 00:13:59,970 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-13 00:14:00,250 [main] INFO stepdefination.MediaResource -   Verify error mesg  
+2018-04-13 00:14:02,309 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 00:14:03,169 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 00:14:12,659 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-13 00:14:14,025 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-13 00:14:14,284 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-13 00:14:14,588 [main] INFO stepdefination.MediaResource -   Verify error mesg  
+2018-04-13 00:14:16,681 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 01:24:38,690 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-13 01:26:12,206 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 01:27:16,383 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-13 01:28:13,227 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 01:28:59,937 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-13 01:30:41,462 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 01:33:19,966 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 01:34:50,704 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-13 01:36:07,153 [main] INFO pagelibraray.RequestDemoPage - On Media resource page click to change language to Deutsch
+2018-04-13 01:36:09,580 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 01:36:09,581 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-13 02:17:42,491 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-13 02:17:42,585 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 02:17:42,601 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-13 02:17:42,616 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 02:19:17,478 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-13 02:19:49,272 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 02:20:09,499 [main] INFO pagelibraray.RequestDemoPage - On Media resource page click to change language to Deutsch
+2018-04-13 02:20:12,652 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-13 02:20:12,656 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 22:32:21,191 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-13 22:33:50,265 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-13 22:34:13,453 [main] INFO pagelibraray.RequestDemoPage - On Media resource page click to change language to Deutsch
+2018-04-13 22:34:17,643 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-13 22:34:17,645 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 01:03:18,870 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 01:03:40,489 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 01:04:04,177 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 01:04:04,186 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 01:04:04,192 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 01:04:31,721 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 01:05:07,991 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 01:05:08,001 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 01:06:50,747 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 01:07:17,482 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 01:07:32,175 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 01:07:32,177 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 01:07:32,181 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 01:07:41,223 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 01:07:56,643 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 01:07:56,644 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 17:10:41,478 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 17:11:30,861 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 17:11:48,349 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 17:11:48,350 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 17:11:48,352 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 17:11:57,358 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 17:12:14,830 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 17:12:14,831 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 17:46:13,724 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 17:46:28,443 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 17:46:47,345 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 17:46:47,346 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 17:46:47,348 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 17:47:01,291 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 17:47:21,152 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 17:47:21,153 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 18:02:30,644 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 18:02:35,931 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 18:03:13,199 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 18:03:14,090 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 18:03:14,833 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 18:03:18,140 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 18:03:26,529 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 18:03:27,351 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 18:32:37,147 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 18:32:41,952 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 18:34:16,827 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 18:34:17,628 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 18:34:18,364 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 18:34:21,703 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 18:36:06,882 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 18:36:07,676 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 18:45:22,680 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 18:46:39,320 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 18:47:18,718 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 18:47:19,331 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 18:47:19,879 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 18:47:24,757 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 18:53:11,947 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 18:53:15,293 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 18:55:02,241 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 18:55:03,117 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 18:55:03,852 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 18:55:05,969 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 18:56:20,691 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 18:56:21,488 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 19:01:51,556 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 19:03:22,245 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:05:39,392 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 19:06:54,902 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:09:30,410 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:11:16,616 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 19:11:16,620 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 19:11:17,447 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:18:36,569 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:20:18,469 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 19:20:19,289 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:22:07,520 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 19:23:53,966 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 19:23:54,776 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 19:25:35,073 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 19:30:45,749 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 19:32:45,985 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 19:32:46,836 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 19:36:45,333 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 19:38:22,170 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:54:34,773 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:54:38,397 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 19:54:39,137 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:54:41,366 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 19:55:52,662 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:55:56,417 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 19:55:57,294 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:55:59,376 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 19:57:42,293 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 19:57:45,924 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 19:58:35,534 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 19:59:00,703 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 19:59:01,473 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 19:59:11,404 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 20:02:48,507 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 20:02:49,284 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 20:02:49,969 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 20:02:52,059 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 20:06:22,709 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 20:06:36,534 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 20:06:37,379 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 20:06:50,996 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 20:18:19,185 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 20:18:22,864 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 20:18:23,602 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 20:18:25,902 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 20:18:26,582 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 20:18:28,666 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 20:18:29,419 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 20:18:31,490 [main] INFO stepdefination.RequestDemo - ***** Browser quit********
+2018-04-14 20:18:32,356 [main] INFO stepdefination.RequestDemo - ***** Browser Launch********
+2018-04-14 20:34:13,071 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-14 20:34:16,687 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-14 20:34:17,422 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-14 20:34:19,911 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-14 20:34:20,652 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-14 20:34:22,784 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-14 20:34:23,567 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-14 20:34:25,712 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-14 20:34:26,491 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-14 20:34:28,753 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-14 20:34:29,514 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-14 20:34:31,633 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-14 20:34:32,472 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-14 20:34:34,757 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-14 20:34:35,555 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-14 20:34:37,692 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-14 20:43:11,850 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 20:43:24,135 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 20:43:24,139 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-14 20:43:24,140 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-14 20:45:24,452 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 20:45:25,250 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 20:51:13,027 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 20:51:24,766 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 20:51:24,769 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-14 20:51:24,770 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-14 20:51:25,111 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 20:51:25,931 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 20:51:36,266 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 20:51:36,272 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-14 20:51:36,541 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-14 20:51:36,828 [main] INFO stepdefination.MediaResource -   Verify error mesg  
+2018-04-14 20:52:38,871 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 20:52:39,637 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 20:52:41,930 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 20:52:42,698 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 20:52:44,992 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 20:57:45,706 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 20:57:55,520 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 20:57:55,526 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-14 20:57:55,526 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-14 20:57:55,787 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 20:57:56,603 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 20:58:05,893 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 20:58:05,908 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-14 20:58:06,229 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-14 20:58:06,569 [main] INFO stepdefination.MediaResource -   Verify error mesg  
+2018-04-14 20:59:08,626 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 20:59:09,447 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 20:59:23,996 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 20:59:24,781 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 20:59:37,504 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:04:24,496 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:04:39,459 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 21:04:39,467 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-14 21:04:39,468 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-14 21:04:39,732 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:04:40,528 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:04:50,174 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 21:04:50,185 [main] INFO stepdefination.MediaResource -   User enters email to signup for news letter  
+2018-04-14 21:04:50,452 [main] INFO stepdefination.MediaResource -   User clicks on submit to signup for news letter  
+2018-04-14 21:04:50,712 [main] INFO stepdefination.MediaResource -   Verify error mesg  
+2018-04-14 21:05:52,758 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:05:53,569 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:06:06,836 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:06:07,623 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:06:20,471 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:11:20,438 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:12:00,120 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 21:12:00,129 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-14 21:12:00,129 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-14 21:12:00,410 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:12:01,207 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:12:13,357 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:12:14,203 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:12:24,659 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:18:11,079 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:18:24,515 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 21:18:24,529 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-14 21:18:24,531 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-14 21:18:25,185 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:18:26,246 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:18:28,899 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:18:29,868 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:18:32,512 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:24:15,551 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:24:31,050 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 21:24:31,060 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-14 21:24:31,062 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-14 21:24:31,674 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:24:32,703 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:24:35,396 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:24:36,302 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:24:38,914 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:26:44,347 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:26:57,613 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 21:26:57,623 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-14 21:26:57,624 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-14 21:26:58,348 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:26:59,556 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:27:02,221 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:27:03,217 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:27:05,815 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:45:50,764 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:46:04,961 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 21:46:04,972 [main] INFO stepdefination.MediaResource -   Navigate click on Deutsch to change language  
+2018-04-14 21:46:04,974 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-14 21:46:05,698 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:46:06,793 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:46:25,068 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:46:26,135 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:46:42,990 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:52:14,919 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:52:56,892 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 21:52:56,913 [main] INFO stepdefination.MediaResource -   Verify Scroll to product screesnshot   
+2018-04-14 21:52:59,697 [main] INFO stepdefination.MediaResource -   Verify Scroll to Xeneta Logo   
+2018-04-14 21:53:02,412 [main] INFO stepdefination.MediaResource -   Verify Scroll to spokpersons link   
+2018-04-14 21:53:05,027 [main] INFO stepdefination.MediaResource -   Verify Scroll to Founders section   
+2018-04-14 21:53:07,652 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:53:08,695 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:53:26,909 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:53:27,964 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:53:45,386 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:58:08,299 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:58:51,226 [main] INFO stepdefination.MediaResource -   User navigate to media resource page  
+2018-04-14 21:58:51,240 [main] INFO stepdefination.MediaResource -   Verify Scroll to product screesnshot   
+2018-04-14 21:58:54,037 [main] INFO stepdefination.MediaResource -   Verify Scroll to Xeneta Logo   
+2018-04-14 21:58:56,677 [main] INFO stepdefination.MediaResource -   Verify Scroll to spokpersons link   
+2018-04-14 21:58:59,294 [main] INFO stepdefination.MediaResource -   Verify Scroll to Founders section   
+2018-04-14 21:59:01,898 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:59:02,906 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:59:21,689 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 21:59:22,770 [main] INFO stepdefination.MediaResource - ***** Browser Launch********
+2018-04-14 21:59:40,188 [main] INFO stepdefination.MediaResource - ***** Browser quit********
+2018-04-14 22:22:37,556 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 22:22:55,248 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-14 22:22:55,259 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-14 22:22:57,993 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-14 22:23:00,601 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-14 22:23:03,183 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-14 22:23:05,765 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-14 22:23:06,833 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 22:23:25,009 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-14 22:23:26,044 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 22:23:44,866 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-14 22:30:38,740 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 22:30:56,055 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-14 22:30:56,064 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-14 22:30:58,941 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-14 22:31:01,559 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-14 22:31:04,133 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-14 22:31:06,715 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-14 22:31:07,765 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 22:31:29,101 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-14 22:31:30,187 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 22:31:52,238 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-14 22:38:26,762 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 22:42:39,791 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 22:44:16,547 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 22:54:55,409 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 22:55:25,160 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-14 23:01:13,472 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 23:01:42,218 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-14 23:02:30,805 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 23:02:58,063 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-14 23:04:05,754 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 23:04:45,576 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-14 23:06:35,040 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 23:06:59,567 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-14 23:10:50,925 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 23:11:16,679 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-14 23:13:44,046 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 23:14:34,098 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-14 23:15:07,538 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-14 23:15:34,185 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-15 00:20:31,108 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:21:03,463 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 00:21:05,807 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:21:25,338 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 00:21:27,642 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 00:31:17,278 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:31:24,844 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:31:25,813 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:31:29,099 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:31:30,003 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:31:33,134 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:31:34,078 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:31:37,155 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:31:38,139 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:31:41,202 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:31:42,124 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:31:45,267 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:31:46,199 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:31:49,303 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:31:50,215 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:31:53,417 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:33:09,797 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:33:17,138 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:33:18,086 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:33:21,105 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:33:22,104 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:33:25,125 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:33:26,129 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:35:17,604 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:35:23,871 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:37:03,087 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:37:10,741 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:37:20,792 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:37:20,800 [main] INFO stepdefination.SmokeSteps -   Navigate click on Deutsch to change language  
+2018-04-15 00:37:20,802 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-15 00:37:21,499 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:37:22,589 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:37:23,628 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:37:26,883 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:37:36,636 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:37:36,641 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 00:37:39,449 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 00:37:42,101 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 00:37:44,736 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 00:37:47,393 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:37:48,498 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:37:49,067 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:37:52,241 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:38:01,580 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:38:01,596 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:38:02,755 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:38:03,333 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 00:38:06,454 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:38:07,486 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:38:08,494 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:38:11,625 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:39:36,757 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:39:42,180 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:40:52,237 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:40:52,247 [main] INFO stepdefination.SmokeSteps -   Navigate click on Deutsch to change language  
+2018-04-15 00:40:52,249 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-15 00:40:53,230 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:40:54,334 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:40:55,209 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:40:58,755 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:41:10,850 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:41:10,854 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 00:41:13,677 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 00:41:16,361 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 00:41:18,956 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 00:41:21,608 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:41:22,698 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:41:23,558 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:41:26,733 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:41:37,608 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:41:37,629 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:41:38,883 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:41:39,450 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 00:41:42,572 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:41:43,623 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:41:44,545 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:41:47,644 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:41:58,861 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:41:58,865 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:41:59,906 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:42:00,527 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 00:42:02,692 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:42:03,717 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:42:04,780 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:42:08,006 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:42:20,094 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:42:20,098 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:42:20,947 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:42:21,584 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 00:42:23,709 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:42:24,723 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:42:25,785 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:42:28,794 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:42:39,726 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:42:39,730 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:42:40,366 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:42:41,030 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 00:43:43,082 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:43:44,093 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:43:44,968 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:43:47,643 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:44:07,566 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 00:44:09,812 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:44:10,882 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:44:11,694 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:44:14,743 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:44:28,258 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 00:44:30,536 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 00:44:32,826 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:44:33,963 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:47:03,498 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:47:09,379 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:47:21,152 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:47:21,161 [main] INFO stepdefination.SmokeSteps -   Navigate click on Deutsch to change language  
+2018-04-15 00:47:21,163 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-15 00:47:21,802 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:47:22,787 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:47:23,682 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:47:26,665 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:47:39,399 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:47:39,403 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 00:47:42,135 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 00:47:44,744 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 00:47:47,374 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 00:47:50,032 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:47:51,087 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:47:52,009 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:47:55,500 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:48:06,484 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:48:06,501 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:48:07,693 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:48:08,326 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 00:48:11,435 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:48:12,477 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:48:13,336 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:48:18,033 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:48:30,081 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:48:30,089 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:48:31,321 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:48:31,989 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 00:48:34,111 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:48:35,321 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:48:36,259 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:48:40,250 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:48:51,709 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:48:51,712 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:48:52,982 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:48:53,798 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 00:48:55,910 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:48:56,911 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:48:57,801 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:49:00,890 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:49:14,442 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:49:14,447 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:49:15,185 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:49:15,938 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 00:49:58,273 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:49:59,465 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:50:00,152 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:50:03,063 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:50:27,530 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 00:50:29,839 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:50:30,985 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:50:31,959 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:50:35,656 [main] INFO stepdefination.Hooks - ***** Browser Launch********
+2018-04-15 00:50:51,134 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 00:50:53,434 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 00:50:55,689 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:50:56,942 [main] INFO stepdefination.Hooks - ***** Browser quit********
+2018-04-15 00:53:27,738 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:53:41,510 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:53:41,520 [main] INFO stepdefination.SmokeSteps -   Navigate click on Deutsch to change language  
+2018-04-15 00:53:41,522 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-15 00:53:42,111 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:53:43,143 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:53:52,404 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:53:52,409 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 00:53:55,098 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 00:53:57,699 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 00:54:00,272 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 00:54:02,828 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:54:03,827 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:54:12,788 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:54:12,805 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:54:13,696 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:54:14,193 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 00:54:17,339 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:54:18,321 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:54:27,064 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:54:27,069 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:54:28,125 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:54:28,683 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 00:54:30,780 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:54:31,810 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:54:40,924 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:54:40,928 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:54:41,652 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:54:42,168 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 00:54:44,270 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:54:45,245 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:54:54,938 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 00:54:54,943 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 00:54:55,478 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 00:54:56,032 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 00:55:58,104 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:55:59,131 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:56:16,532 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 00:56:18,775 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 00:56:19,785 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 00:56:30,841 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 00:56:33,105 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 00:56:35,379 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 01:02:09,837 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 01:03:51,798 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 01:03:51,810 [main] INFO stepdefination.SmokeSteps -   Navigate click on Deutsch to change language  
+2018-04-15 01:03:51,812 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-15 01:03:52,470 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 01:03:53,648 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 01:05:42,343 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 01:05:42,348 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 01:05:45,028 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 01:05:47,681 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 01:05:50,248 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 01:05:52,830 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 01:05:53,861 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 01:07:51,290 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 01:07:51,306 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 01:07:52,334 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 01:07:52,963 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 01:07:56,073 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 01:07:57,251 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 01:11:23,313 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 01:11:23,318 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 01:11:24,366 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 01:11:24,840 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 01:11:26,955 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 01:11:28,210 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 01:13:15,285 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 01:13:15,291 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 01:13:16,003 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 01:13:16,537 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 01:13:18,636 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 01:13:19,783 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 01:15:09,438 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 01:15:09,444 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 01:15:09,967 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 01:15:10,503 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 01:16:12,563 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 01:16:13,682 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 01:17:37,985 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 01:17:40,248 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 01:17:41,306 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 01:18:57,290 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 01:18:59,532 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 01:19:01,773 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:10:26,828 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:10:42,929 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:10:42,935 [main] INFO stepdefination.SmokeSteps -   Navigate click on Deutsch to change language  
+2018-04-15 09:10:42,937 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-15 09:10:43,331 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:10:44,166 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:10:53,486 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:10:53,491 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 09:10:55,834 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 09:10:58,119 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 09:11:00,437 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 09:11:02,720 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:11:03,528 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:11:10,866 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:11:10,901 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 09:11:11,293 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 09:11:11,530 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 09:11:14,617 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:11:15,400 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:11:23,068 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:11:23,070 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 09:11:23,569 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 09:11:23,824 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 09:11:25,895 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:11:26,688 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:11:33,447 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:11:33,449 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 09:11:33,759 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 09:11:34,008 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 09:11:36,081 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:11:36,830 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:11:44,251 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:11:44,252 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 09:11:44,509 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 09:11:44,747 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 09:12:46,778 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:12:47,554 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:12:58,657 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 09:13:00,794 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:13:01,550 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:13:09,710 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 09:13:11,849 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 09:13:14,005 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:23:32,073 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:23:40,933 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:23:40,943 [main] INFO stepdefination.SmokeSteps -   Navigate click on Deutsch to change language  
+2018-04-15 09:23:40,944 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-15 09:23:41,227 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:23:42,018 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:23:48,894 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:23:48,896 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 09:23:51,249 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 09:23:53,624 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 09:23:55,956 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 09:23:58,265 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:23:59,165 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:24:06,914 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:24:06,923 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 09:24:07,314 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 09:24:07,566 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 09:24:10,615 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:24:11,426 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:24:50,395 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:24:50,396 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 09:24:50,835 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 09:24:51,088 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 09:24:53,141 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:24:53,913 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:25:34,720 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:25:34,722 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 09:25:35,009 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 09:25:35,259 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 09:25:37,308 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:25:38,031 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:25:48,082 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 09:25:48,084 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 09:25:48,333 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 09:25:48,582 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 09:26:50,627 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:26:51,443 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:27:02,710 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 09:27:04,827 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 09:27:05,574 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 09:27:13,341 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 09:27:15,507 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 09:27:17,653 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 18:07:57,172 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 18:08:19,612 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 18:08:19,622 [main] INFO stepdefination.SmokeSteps -   Navigate click on Deutsch to change language  
+2018-04-15 18:08:19,623 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-15 18:08:20,259 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 18:08:21,158 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 18:08:30,439 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 18:08:30,441 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 18:08:33,040 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 18:08:35,478 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 18:08:37,921 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 18:08:40,298 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 18:08:41,196 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 18:08:49,595 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 18:08:49,605 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 18:08:50,327 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 18:08:50,722 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 18:08:53,784 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 18:08:54,665 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 18:09:05,417 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 18:09:05,418 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 18:09:06,216 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 18:09:06,600 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 18:09:08,661 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 18:09:09,568 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 18:09:19,447 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 18:09:19,448 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 18:09:19,989 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 18:09:20,374 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 18:09:22,446 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 18:09:23,331 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 18:09:32,713 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 18:09:32,715 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 18:09:33,106 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 18:09:33,504 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 18:10:35,540 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 18:10:36,434 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 18:10:51,004 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 18:10:53,165 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 18:10:54,013 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 18:11:04,404 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 18:11:06,595 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 18:11:08,776 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:13:06,607 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:13:22,378 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:13:22,384 [main] INFO stepdefination.SmokeSteps -   Navigate click on Deutsch to change language  
+2018-04-15 19:13:22,385 [main] INFO pagelibraray.MediaResourcePage - On Media resource page click to change language to Deutsch
+2018-04-15 19:13:22,708 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:13:23,512 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:13:36,820 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:13:36,822 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 19:13:39,195 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 19:13:41,511 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 19:13:43,799 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 19:13:46,105 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:13:46,885 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:13:57,803 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:13:57,813 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 19:13:58,215 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 19:13:58,480 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 19:14:01,534 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:14:02,315 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:14:13,270 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:14:13,272 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 19:14:13,771 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 19:14:14,003 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 19:14:16,053 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:14:16,826 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:14:29,185 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:14:29,187 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 19:14:29,491 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 19:14:29,727 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 19:14:31,803 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:14:32,594 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:14:44,873 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:14:44,875 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 19:14:45,152 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 19:14:45,404 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 19:15:47,486 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:15:48,340 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:16:02,319 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-15 19:16:04,494 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:16:05,263 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:16:17,103 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 19:16:19,252 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:16:20,034 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:16:30,522 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 19:16:32,706 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 19:16:34,855 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:19:04,155 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:19:08,776 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:19:22,800 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 19:19:23,169 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:22:29,216 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:22:33,338 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:22:41,382 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 19:22:41,662 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:28:18,182 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:28:22,670 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:28:30,173 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 19:28:32,780 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-15 19:28:34,808 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:29:40,361 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:29:45,842 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:29:54,499 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 19:29:56,919 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-15 19:29:58,948 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:36:03,777 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:36:09,413 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:36:43,845 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 19:36:55,849 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-15 19:36:57,954 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 19:37:05,778 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 19:37:10,123 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 19:37:53,415 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 19:37:57,121 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-15 19:37:59,177 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 20:37:20,575 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 20:37:24,476 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 20:37:32,825 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 20:37:34,853 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-15 20:37:36,870 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 20:37:37,705 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 20:37:41,440 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 20:37:48,744 [main] INFO stepdefination.SmokeSteps -   Verify youtube video is present 
+2018-04-15 20:38:49,109 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 20:39:48,572 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 20:39:52,386 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 20:40:00,598 [main] INFO stepdefination.SmokeSteps -   Verify youtube video is present 
+2018-04-15 20:42:00,724 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 20:43:31,637 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 20:43:36,055 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 20:43:43,478 [main] INFO stepdefination.SmokeSteps -   Verify youtube video is present 
+2018-04-15 20:43:43,479 [main] INFO stepdefination.SmokeSteps -   counter start 
+2018-04-15 20:43:53,480 [main] INFO stepdefination.SmokeSteps -   Verify user clicks on play 
+2018-04-15 20:43:53,508 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 20:48:26,970 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 20:48:31,232 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 20:48:38,756 [main] INFO stepdefination.SmokeSteps -   Verify youtube video is present 
+2018-04-15 20:49:39,085 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 20:51:34,956 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 20:51:39,725 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 20:51:47,610 [main] INFO stepdefination.SmokeSteps -   Verify youtube video is present 
+2018-04-15 20:52:47,714 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 21:22:58,197 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 21:23:03,813 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 21:23:13,085 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 21:29:06,607 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 21:29:11,642 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 21:29:22,017 [main] INFO stepdefination.SmokeSteps -   Verify youtube video is present 
+2018-04-15 21:30:34,180 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:01:19,015 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:01:22,997 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:01:32,770 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-15 22:01:33,168 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-15 22:01:33,244 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-15 22:01:33,312 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-15 22:01:33,370 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-15 22:01:33,437 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-15 22:01:33,491 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-15 22:01:33,547 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:12:07,001 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:12:11,351 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:12:19,098 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-15 22:12:19,247 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-15 22:12:19,335 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-15 22:12:19,419 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-15 22:12:19,477 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-15 22:12:19,531 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-15 22:12:19,586 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-15 22:12:19,645 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:12:20,600 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:12:23,532 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:12:31,569 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-15 22:12:31,673 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-15 22:12:31,751 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-15 22:12:31,838 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-15 22:12:31,916 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-15 22:12:31,997 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-15 22:12:32,073 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:19:57,864 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:20:05,475 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:20:16,571 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 22:20:18,611 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 22:20:19,688 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 22:20:20,069 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 22:20:20,426 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-15 22:20:22,566 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:20:23,393 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:20:26,721 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:20:35,438 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 22:20:36,933 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 22:20:37,806 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 22:20:38,093 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 22:20:38,380 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 22:20:40,514 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:20:41,356 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:20:43,622 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:20:51,026 [main] INFO stepdefination.SmokeSteps -  user enter email   
+2018-04-15 22:20:51,295 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 22:20:51,661 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 22:20:53,814 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 22:20:55,968 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:20:56,764 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:20:58,873 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:21:06,848 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-15 22:21:07,165 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-15 22:21:07,226 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-15 22:21:07,278 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-15 22:21:07,332 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-15 22:21:07,398 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-15 22:21:07,452 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-15 22:21:07,503 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:21:08,328 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:21:10,631 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:21:21,331 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-15 22:21:21,423 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-15 22:21:21,489 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-15 22:21:21,556 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-15 22:21:21,622 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-15 22:21:21,688 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-15 22:21:21,774 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:28:28,567 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:28:32,263 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:28:41,200 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 22:28:43,648 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-15 22:28:45,696 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:28:46,553 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:28:49,865 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:28:55,782 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 22:28:58,183 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 22:29:00,489 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 22:29:02,797 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 22:29:05,129 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:29:05,950 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:29:08,365 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:29:19,803 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 22:29:20,229 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 22:29:20,510 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 22:29:23,578 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:29:24,401 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:29:26,971 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:29:33,350 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 22:29:33,919 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 22:29:34,267 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 22:29:36,330 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:29:37,195 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:29:39,526 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:29:46,051 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 22:29:46,437 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 22:29:46,762 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 22:29:48,837 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:29:49,776 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:29:52,054 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:30:00,504 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 22:30:00,787 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 22:30:01,057 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 22:31:03,200 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:31:04,045 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:31:06,871 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:31:14,798 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 22:31:16,475 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 22:31:17,419 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 22:31:17,707 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 22:31:18,020 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-15 22:31:20,181 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:31:20,995 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:31:23,813 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:31:30,539 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 22:31:32,188 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 22:31:33,072 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 22:31:33,416 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 22:31:33,711 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 22:31:35,842 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:31:36,634 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:31:39,291 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:31:45,766 [main] INFO stepdefination.SmokeSteps -  user enter email   
+2018-04-15 22:31:46,168 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 22:31:46,535 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 22:31:48,692 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 22:31:50,866 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:31:51,663 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:31:54,401 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:32:03,163 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-15 22:32:03,275 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-15 22:32:03,337 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-15 22:32:03,398 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-15 22:32:03,454 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-15 22:32:03,513 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-15 22:32:03,576 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-15 22:32:03,629 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:32:04,427 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:32:07,064 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:32:15,782 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-15 22:32:15,930 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-15 22:32:16,017 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-15 22:32:16,101 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-15 22:32:16,166 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-15 22:32:16,234 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-15 22:32:16,328 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:37:07,393 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:37:11,531 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:37:19,240 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 22:37:23,469 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-15 22:37:25,534 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:37:26,326 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:37:29,839 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:37:39,085 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 22:37:41,493 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 22:37:43,793 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 22:37:46,085 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 22:37:48,360 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:37:49,132 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:37:52,400 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:38:00,088 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 22:38:00,500 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 22:38:00,775 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 22:38:03,860 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:38:04,682 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:38:07,640 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:38:16,290 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 22:38:16,694 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 22:38:16,950 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 22:38:19,017 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:38:19,819 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:38:23,063 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:38:30,925 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 22:38:31,260 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 22:38:31,529 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 22:38:33,608 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:38:34,463 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:38:37,863 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 22:38:45,932 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 22:38:46,188 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 22:38:46,434 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 22:39:48,543 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:39:49,331 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:39:51,733 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:40:07,750 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 22:40:09,436 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 22:40:10,338 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 22:40:10,611 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 22:40:10,911 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-15 22:40:13,062 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:40:13,843 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:40:16,481 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:40:25,201 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 22:40:26,731 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 22:40:27,591 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 22:40:27,895 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 22:40:28,227 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 22:40:30,392 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:40:31,149 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:40:33,991 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:40:45,383 [main] INFO stepdefination.SmokeSteps -  user enter email   
+2018-04-15 22:40:45,695 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 22:40:46,081 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 22:40:48,238 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 22:40:50,407 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:40:51,150 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:40:53,889 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:41:04,579 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-15 22:41:04,698 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-15 22:41:04,771 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-15 22:41:04,823 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-15 22:41:04,872 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-15 22:41:04,927 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-15 22:41:04,988 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-15 22:41:05,040 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:41:05,785 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:41:08,526 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 22:41:14,619 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-15 22:41:14,711 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-15 22:41:14,776 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-15 22:41:14,852 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-15 22:41:14,920 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-15 22:41:14,987 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-15 22:41:15,054 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:55:01,214 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:55:05,353 [main] INFO stepdefination.dummey -   User navigate to media resource page  
+2018-04-15 22:55:05,409 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:55:06,226 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:55:08,406 [main] INFO stepdefination.dummey -   User navigate to media resource page  
+2018-04-15 22:55:08,411 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:55:09,288 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:55:11,458 [main] INFO stepdefination.dummey -   User navigate to media resource page  
+2018-04-15 22:55:11,464 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:55:12,277 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:55:14,436 [main] INFO stepdefination.dummey -   User navigate to media resource page  
+2018-04-15 22:55:14,439 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:55:15,212 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 22:55:17,432 [main] INFO stepdefination.dummey -   User navigate to media resource page  
+2018-04-15 22:55:17,435 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 22:55:18,305 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:15:18,743 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:15:23,712 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:15:39,738 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 23:15:42,998 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-15 23:15:45,022 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:15:46,123 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:15:50,572 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:16:00,510 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 23:16:02,965 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 23:16:05,246 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 23:16:07,596 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 23:16:09,985 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:16:10,789 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:16:14,027 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:16:22,286 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:16:22,839 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:16:23,136 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 23:16:26,225 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:16:27,017 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:16:29,774 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:16:36,879 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:16:37,550 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:16:37,811 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 23:16:39,884 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:16:40,752 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:16:43,449 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:16:51,214 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:16:51,669 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:16:51,937 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 23:16:54,011 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:16:54,842 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:16:58,126 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:17:04,103 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:17:04,386 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:17:04,644 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 23:18:06,796 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:18:07,642 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:18:10,562 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:18:18,803 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 23:18:21,587 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 23:18:22,632 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 23:18:22,940 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 23:18:23,275 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-15 23:18:25,449 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:18:26,299 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:18:29,984 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:18:36,920 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 23:18:38,965 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 23:18:40,244 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 23:18:40,685 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 23:18:41,104 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 23:18:43,317 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:18:44,720 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:18:48,945 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:18:58,001 [main] INFO stepdefination.SmokeSteps -  user enter email   
+2018-04-15 23:18:58,384 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 23:18:58,747 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 23:19:00,932 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 23:19:03,080 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:19:03,813 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:19:06,093 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:19:17,801 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-15 23:19:17,930 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-15 23:19:17,987 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-15 23:19:18,041 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-15 23:19:18,106 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-15 23:19:18,161 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-15 23:19:18,218 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-15 23:19:18,297 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:19:19,124 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:19:21,805 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:19:28,429 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-15 23:19:28,588 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-15 23:19:28,656 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-15 23:19:28,735 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-15 23:19:28,807 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-15 23:19:28,874 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-15 23:19:28,959 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:36:28,475 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:36:33,605 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:36:42,585 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 23:36:44,437 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-15 23:36:46,553 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:36:47,498 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:36:51,722 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:36:58,969 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 23:36:59,378 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:37:00,193 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:37:03,008 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:37:09,601 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:37:10,001 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:37:10,319 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 23:37:13,415 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:37:14,172 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:37:17,618 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:37:24,139 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:37:24,639 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:37:24,932 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 23:37:27,002 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:37:27,939 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:37:32,218 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:37:40,594 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:37:40,935 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:37:41,274 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 23:37:43,337 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:37:44,128 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:37:48,530 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:37:55,655 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:37:55,913 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:37:56,175 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 23:38:58,230 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:38:59,092 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:39:02,170 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:39:10,362 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 23:39:12,009 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 23:39:13,083 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 23:39:13,427 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 23:39:13,735 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-15 23:39:15,916 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:39:16,796 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:39:19,488 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:40:25,548 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 23:40:27,036 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 23:40:27,900 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 23:40:28,189 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 23:40:28,498 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 23:40:30,632 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:40:31,708 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:40:34,169 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:40:42,477 [main] INFO stepdefination.SmokeSteps -  user enter email   
+2018-04-15 23:40:42,801 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 23:40:43,165 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 23:40:45,295 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 23:40:47,423 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:40:48,218 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:40:51,419 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:40:57,063 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-15 23:40:57,206 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-15 23:40:57,271 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-15 23:40:57,330 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-15 23:40:57,401 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-15 23:40:57,460 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-15 23:40:57,514 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-15 23:40:57,570 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:40:58,457 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:41:01,081 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:41:06,646 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-15 23:41:06,818 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-15 23:41:06,921 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-15 23:41:06,997 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-15 23:41:07,066 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-15 23:41:07,134 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-15 23:41:07,203 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:49:43,353 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:49:48,305 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:49:56,266 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-15 23:49:58,849 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-15 23:50:00,895 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:50:01,912 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:50:05,821 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:50:12,296 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-15 23:50:14,867 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-15 23:50:17,270 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-15 23:50:19,671 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-15 23:50:22,081 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:50:22,992 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:50:26,753 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:50:34,621 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:50:35,321 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:50:35,721 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-15 23:50:38,786 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:50:39,710 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:50:43,826 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:50:50,388 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:50:51,151 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:50:51,538 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 23:50:53,618 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:50:54,507 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:50:58,437 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:51:07,082 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:51:07,659 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:51:08,059 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 23:51:10,128 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:51:11,056 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:51:14,774 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-15 23:51:22,924 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-15 23:51:23,354 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-15 23:51:23,754 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-15 23:52:25,840 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:52:26,814 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:52:30,585 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:52:38,891 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 23:52:41,532 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 23:52:42,841 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 23:52:43,277 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 23:52:43,743 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-15 23:52:45,931 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:52:46,808 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:52:49,813 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:52:58,845 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-15 23:53:01,491 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-15 23:53:02,786 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-15 23:53:03,181 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 23:53:03,669 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 23:53:05,841 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:53:06,755 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:53:09,721 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:53:18,068 [main] INFO stepdefination.SmokeSteps -  user enter email   
+2018-04-15 23:53:18,650 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-15 23:53:19,138 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-15 23:53:21,400 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-15 23:53:23,581 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:53:24,433 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:53:27,143 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:53:36,993 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-15 23:53:37,255 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-15 23:53:37,424 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-15 23:53:37,533 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-15 23:53:37,624 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-15 23:53:37,704 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-15 23:53:37,797 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-15 23:53:37,876 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-15 23:53:38,789 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-15 23:53:42,847 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-15 23:53:50,843 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-15 23:53:51,092 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-15 23:53:51,239 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-15 23:53:51,347 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-15 23:53:51,472 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-15 23:53:51,595 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-15 23:53:51,722 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:24:02,816 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:24:09,494 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:24:16,721 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-16 00:24:19,269 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-16 00:24:21,313 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:24:22,221 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:24:24,604 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:24:31,249 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-16 00:24:33,782 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-16 00:24:36,223 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-16 00:24:38,642 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-16 00:24:41,082 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:24:42,024 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:24:45,179 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:24:50,868 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 00:24:51,588 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 00:24:51,994 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-16 00:24:55,069 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:24:55,956 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:24:58,239 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:25:04,309 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 00:25:05,034 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 00:25:05,427 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 00:25:07,510 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:25:08,417 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:25:10,804 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:25:18,574 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 00:25:19,249 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 00:25:19,758 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 00:25:21,824 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:25:22,696 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:25:25,013 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:25:31,247 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 00:25:31,670 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 00:25:32,046 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 00:25:49,129 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:25:49,999 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:25:52,359 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 00:25:58,777 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-16 00:26:01,460 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-16 00:26:02,820 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-16 00:26:03,240 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 00:26:03,711 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-16 00:26:05,909 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:26:06,793 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:26:09,112 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 00:26:15,409 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-16 00:26:17,883 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-16 00:26:19,228 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-16 00:26:19,706 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 00:26:20,113 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-16 00:26:22,298 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:26:23,171 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:26:25,458 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 00:26:33,614 [main] INFO stepdefination.SmokeSteps -  user enter email   
+2018-04-16 00:26:34,230 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 00:26:34,778 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-16 00:26:37,014 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-16 00:26:39,243 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:26:40,147 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:26:42,556 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 00:26:51,520 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-16 00:26:51,757 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-16 00:26:51,859 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-16 00:26:51,951 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-16 00:26:52,041 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-16 00:26:52,129 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-16 00:26:52,206 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-16 00:26:52,286 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:26:53,243 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:26:55,557 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 00:27:03,647 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-16 00:27:03,926 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-16 00:27:04,051 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-16 00:27:04,186 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-16 00:27:04,297 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-16 00:27:04,403 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-16 00:27:04,503 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:36:37,158 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:36:41,851 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:36:48,927 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-16 00:36:51,483 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-16 00:36:53,550 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:36:54,471 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:36:56,790 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:37:02,728 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-16 00:37:05,325 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-16 00:37:07,746 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-16 00:37:10,183 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-16 00:37:12,597 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:37:13,510 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:37:15,777 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:37:22,192 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 00:37:22,969 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 00:37:23,400 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-16 00:37:26,481 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:37:27,354 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:37:29,694 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:37:35,685 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 00:37:36,449 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 00:37:36,878 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 00:37:38,951 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:37:39,859 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:37:42,118 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:37:48,735 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 00:37:49,301 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 00:37:49,671 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 00:37:51,747 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:37:52,660 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:37:54,926 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:38:01,503 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 00:38:01,911 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 00:38:02,311 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 00:38:19,381 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:38:20,303 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:38:22,610 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 00:38:29,399 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-16 00:38:32,168 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-16 00:38:33,556 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-16 00:38:33,989 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 00:38:34,521 [main] INFO stepdefination.SmokeSteps -   Verify successful message displayed after submitting form 
+2018-04-16 00:38:36,708 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:38:37,617 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:38:39,954 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 00:38:46,389 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-16 00:38:49,025 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-16 00:38:50,410 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-16 00:38:50,875 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 00:38:51,350 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-16 00:38:53,544 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:38:54,414 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:38:56,732 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 00:39:02,753 [main] INFO stepdefination.SmokeSteps -  user enter email   
+2018-04-16 00:39:03,349 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 00:39:03,940 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-16 00:39:06,135 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-16 00:39:08,345 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:39:09,231 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:39:11,590 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 00:39:19,259 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-16 00:39:19,438 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-16 00:39:19,538 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-16 00:39:19,611 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-16 00:39:19,694 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-16 00:39:19,786 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-16 00:39:19,945 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-16 00:39:20,040 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:39:20,927 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:39:23,255 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 00:39:29,645 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-16 00:39:29,819 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-16 00:39:30,057 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-16 00:39:30,218 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-16 00:39:30,340 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-16 00:39:30,431 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-16 00:39:30,530 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 00:59:36,787 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 00:59:41,534 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 00:59:52,020 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-16 00:59:58,857 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-16 01:00:00,903 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 01:00:01,830 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 01:00:04,154 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 01:00:25,011 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-16 01:00:27,562 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-16 01:00:29,974 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-16 01:00:32,418 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-16 01:00:34,836 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 01:00:35,751 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 01:00:38,492 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 01:00:44,903 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 01:00:45,611 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 01:00:45,987 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-16 01:00:49,050 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 01:00:49,919 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 01:00:52,331 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 01:00:59,087 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 01:00:59,823 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 01:01:00,291 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 01:01:02,356 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 01:01:03,297 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 01:01:05,637 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 01:01:12,062 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 01:01:12,608 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 01:01:13,071 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 01:01:15,128 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 01:01:16,422 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 01:01:18,717 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 01:01:24,915 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 01:01:25,324 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 01:01:25,681 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 01:01:42,727 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 01:01:43,641 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 01:01:46,530 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 01:01:55,876 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-16 01:01:58,443 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-16 01:01:59,779 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-16 01:02:00,214 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 01:02:00,648 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-16 01:02:02,819 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 01:02:03,687 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 01:02:06,013 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 01:02:12,513 [main] INFO stepdefination.SmokeSteps -  user enter email   
+2018-04-16 01:02:13,113 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 01:02:13,646 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-16 01:02:15,823 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-16 01:02:18,015 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 01:02:18,890 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 01:02:21,215 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 01:02:27,365 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-16 01:02:27,582 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-16 01:02:27,688 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-16 01:02:27,798 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-16 01:02:27,890 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-16 01:02:27,965 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-16 01:02:28,040 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-16 01:02:28,121 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 01:02:29,031 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 01:02:31,388 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 01:02:37,888 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-16 01:02:38,200 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-16 01:02:38,322 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-16 01:02:38,443 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-16 01:02:38,544 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-16 01:02:38,638 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-16 01:02:38,742 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:00:23,775 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:00:32,693 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 22:00:42,162 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-16 22:00:46,580 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-16 22:00:48,604 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:00:49,545 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:00:53,147 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 22:01:01,280 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-16 22:01:03,871 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-16 22:01:06,344 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-16 22:01:08,782 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-16 22:01:11,179 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:01:12,061 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:01:15,111 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 22:01:23,135 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 22:01:24,074 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 22:01:24,630 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-16 22:01:27,700 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:01:28,600 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:01:32,131 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 22:01:39,400 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 22:01:40,365 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 22:01:41,024 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 22:01:43,100 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:01:43,980 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:01:47,193 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 22:02:53,833 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 22:02:54,468 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 22:02:54,982 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 22:02:57,059 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:02:57,953 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:03:02,371 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 22:03:11,653 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 22:03:12,195 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 22:03:12,683 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 22:03:29,827 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:03:30,717 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:03:33,639 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 22:03:41,721 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-16 22:03:43,641 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-16 22:03:44,664 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-16 22:03:45,021 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 22:03:45,363 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-16 22:03:47,523 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:03:48,270 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:03:50,958 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 22:03:58,429 [main] INFO stepdefination.SmokeSteps -  user enter email   
+2018-04-16 22:03:58,777 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 22:03:59,143 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-16 22:04:01,290 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-16 22:04:03,456 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:04:04,219 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:04:06,714 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 22:04:12,578 [main] INFO stepdefination.SmokeSteps -   Verify shippers link is displayed 
+2018-04-16 22:04:12,746 [main] INFO stepdefination.SmokeSteps -   Verify freight forwarders link is displayed 
+2018-04-16 22:04:12,816 [main] INFO stepdefination.SmokeSteps -   Verify Products link is displayed 
+2018-04-16 22:04:12,885 [main] INFO stepdefination.SmokeSteps -   Verify Learn link is displayed 
+2018-04-16 22:04:12,946 [main] INFO stepdefination.SmokeSteps -   Verify Blog link is displyed 
+2018-04-16 22:04:13,012 [main] INFO stepdefination.SmokeSteps -   Verify Free trial and demo link is displyed 
+2018-04-16 22:04:13,073 [main] INFO stepdefination.SmokeSteps -   Verify sign link is displyed 
+2018-04-16 22:04:13,135 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:04:13,919 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:04:16,130 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 22:04:21,644 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-16 22:04:22,037 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-16 22:04:22,127 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-16 22:04:22,219 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-16 22:04:22,307 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-16 22:04:22,388 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-16 22:04:22,458 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:11:46,213 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:11:51,150 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 22:11:59,494 [main] INFO stepdefination.SmokeSteps -   User click on Deutsch to change language  
+2018-04-16 22:12:01,866 [main] INFO stepdefination.SmokeSteps -   Verify language changed to Deutsch   
+2018-04-16 22:12:03,886 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:12:04,765 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:12:08,109 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 22:12:15,492 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to product screesnshot   
+2018-04-16 22:12:18,086 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Xeneta Logo   
+2018-04-16 22:12:20,491 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to spokpersons link   
+2018-04-16 22:12:22,893 [main] INFO stepdefination.SmokeSteps -   Verify Scroll to Founders section   
+2018-04-16 22:12:25,308 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:12:26,184 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:12:28,992 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 22:12:36,986 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 22:12:37,695 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 22:12:38,102 [main] INFO stepdefination.SmokeSteps -   Verify successful mesg  
+2018-04-16 22:12:41,171 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:12:42,010 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:12:44,989 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 22:12:54,132 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 22:12:54,959 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 22:12:55,401 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 22:12:57,462 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:12:58,330 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:13:01,754 [main] INFO stepdefination.SmokeSteps -   User navigate to media resource page  
+2018-04-16 22:13:09,747 [main] INFO stepdefination.SmokeSteps -   User enters email to signup for news letter  
+2018-04-16 22:13:10,331 [main] INFO stepdefination.SmokeSteps -   User clicks on submit to signup for news letter  
+2018-04-16 22:13:10,670 [main] INFO stepdefination.SmokeSteps -   Verify error mesg  
+2018-04-16 22:13:12,729 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:13:13,556 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:13:16,121 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 22:13:25,800 [main] INFO stepdefination.SmokeSteps -  user enter details in inputbox to request demo   
+2018-04-16 22:13:28,264 [main] INFO stepdefination.SmokeSteps -  user enter selects from dropdown to request demo   
+2018-04-16 22:13:29,592 [main] INFO stepdefination.SmokeSteps -  user click on togglebutton   
+2018-04-16 22:13:30,035 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 22:13:30,495 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-16 22:13:32,668 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:13:33,622 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:13:36,269 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 22:13:46,679 [main] INFO stepdefination.SmokeSteps -  user enter email   
+2018-04-16 22:13:47,161 [main] INFO stepdefination.SmokeSteps -  user click on submit   
+2018-04-16 22:13:47,636 [main] INFO stepdefination.SmokeSteps -   Verify Email must be formatted correctly message displayed 
+2018-04-16 22:13:49,825 [main] INFO stepdefination.SmokeSteps -   Verify Please complete all required fields message displayed after submitting form 
+2018-04-16 22:13:51,994 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********
+2018-04-16 22:13:52,892 [main] INFO stepdefination.SmokeSteps - ***** Browser Launch********
+2018-04-16 22:13:55,395 [main] INFO stepdefination.SmokeSteps -  user navigates to request demo page   
+2018-04-16 22:14:03,137 [main] INFO stepdefination.SmokeSteps -   Verify Data Method link is displyed 
+2018-04-16 22:14:03,338 [main] INFO stepdefination.SmokeSteps -   Verify Customer link is displyed 
+2018-04-16 22:14:03,468 [main] INFO stepdefination.SmokeSteps -   Verify Our Company link 
+2018-04-16 22:14:03,584 [main] INFO stepdefination.SmokeSteps -   Verify Careers link 
+2018-04-16 22:14:03,702 [main] INFO stepdefination.SmokeSteps -   Verify Press link 
+2018-04-16 22:14:03,810 [main] INFO stepdefination.SmokeSteps -   Verify Terms of Services link 
+2018-04-16 22:14:03,909 [main] INFO stepdefination.SmokeSteps - ***** Browser quit********

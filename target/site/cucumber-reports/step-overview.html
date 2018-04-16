@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cucumber-JVM Html Reports - Step Overview</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript" src="jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="bootstrap.min.js"></script>
+
+<script type="text/javascript" src="highcharts.js"></script>
+<script type="text/javascript" src="highcharts-3d.js"></script>
+
+<link rel="stylesheet" href="bootstrap.min.css" type="text/css"/>
+
+<link rel="stylesheet" href="reporting.css" type="text/css"/>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#tablesorter").tablesorter();
+});
+</script>
+
+
+
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navigation">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse">
+      <p class="navbar-text navbar-left">Cucumber-jvm Report</p>
+      <ul class="nav navbar-nav navbar-right">
+                <li role="presentation" ><a href="feature-overview.html">Features</a></li>
+        <li role="presentation" ><a href="tag-overview.html">Tags</a></li>
+        <li role="presentation"     class="active" ><a href="step-overview.html">Steps</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid" id="summary">
+  <div class="row">
+    <div class="col-md-6">
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Project</th>
+                          <th>Number</th>
+                        <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="info">
+            <td>BasicAutomationFramwork-master</td>
+                          <td>42</td>
+                        <td>16 Apr 2018, 22:14</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid" id="title">
+  <h2>Step Statistics</h2>
+      <p>The following graph shows step statistics for this build. Below list is based on results.
+ step does not provide information about result then is not listed below.
+ Additionally @Before and @After are not counted because they are part of the scenarios, not steps.</p>
+  </div>
+
+<div class="container-fluid" id="report-details">
+  <table id="tablesorter" class="stats-table">
+
+    <thead>
+      <tr class="header">
+        <th id="stats-header-feature">Implementation</th>
+        <th id="stats-header-occurrences">Occurrences</th>
+        <th id="stats-header-duration">Duration</th>
+        <th id="stats-header-average">Average</th>
+        <th id="stats-header-status">Ratio</th>
+      </tr>
+    </thead>
+
+    <tbody>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.user_navigates_to_media_Resource_page_in_English()</td>
+          <td>5</td>
+          <td class="duration-format">41s 189ms</td>
+          <td class="duration-format">08s 237ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.user_navigates_to_request_demo_page()</td>
+          <td>3</td>
+          <td class="duration-format">27s 839ms</td>
+          <td class="duration-format">09s 279ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.beforeScenario()</td>
+          <td>8</td>
+          <td class="duration-format">25s 030ms</td>
+          <td class="duration-format">03s 128ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.afterScenario()</td>
+          <td>8</td>
+          <td class="duration-format">07s 033ms</td>
+          <td class="duration-format">879ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.please_complete_all_required_fields_message_should_be_displayed()</td>
+          <td>2</td>
+          <td class="duration-format">04s 341ms</td>
+          <td class="duration-format">02s 170ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.successful_signing_up_message_should_be_displayed()</td>
+          <td>1</td>
+          <td class="duration-format">03s 068ms</td>
+          <td class="duration-format">03s 068ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.product_Screenshots_link_should_work()</td>
+          <td>1</td>
+          <td class="duration-format">02s 593ms</td>
+          <td class="duration-format">02s 593ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.user_eneters(String,String,String,String,String,String)</td>
+          <td>1</td>
+          <td class="duration-format">02s 463ms</td>
+          <td class="duration-format">02s 463ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.image_of_Founders_link_should_work()</td>
+          <td>1</td>
+          <td class="duration-format">02s 414ms</td>
+          <td class="duration-format">02s 414ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.xeneta_Logo_link_should_work()</td>
+          <td>1</td>
+          <td class="duration-format">02s 403ms</td>
+          <td class="duration-format">02s 403ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.spokpersons_link_should_work()</td>
+          <td>1</td>
+          <td class="duration-format">02s 400ms</td>
+          <td class="duration-format">02s 400ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.user_clicks_Deutsch_language_link()</td>
+          <td>1</td>
+          <td class="duration-format">02s 367ms</td>
+          <td class="duration-format">02s 367ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.email_must_be_formatted_correctly_message_should_be_displayed()</td>
+          <td>1</td>
+          <td class="duration-format">02s 188ms</td>
+          <td class="duration-format">02s 188ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.user_enters_to_Sign_up_for_news_letter(String)</td>
+          <td>3</td>
+          <td class="duration-format">02s 125ms</td>
+          <td class="duration-format">708ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.error_message_to_enter_business_email_should_be_displayed()</td>
+          <td>1</td>
+          <td class="duration-format">02s 061ms</td>
+          <td class="duration-format">02s 061ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.error_message_to_enter_proper_formatted_email_should_be_displayed()</td>
+          <td>1</td>
+          <td class="duration-format">02s 058ms</td>
+          <td class="duration-format">02s 058ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.language_should_change_to_Deutsch()</td>
+          <td>1</td>
+          <td class="duration-format">02s 017ms</td>
+          <td class="duration-format">02s 017ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.user_selects_from_drop_down(String,String,String)</td>
+          <td>1</td>
+          <td class="duration-format">01s 328ms</td>
+          <td class="duration-format">01s 328ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.user_clicks_submit_button()</td>
+          <td>3</td>
+          <td class="duration-format">01s 183ms</td>
+          <td class="duration-format">394ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.user_clicks_on_submit()</td>
+          <td>2</td>
+          <td class="duration-format">933ms</td>
+          <td class="duration-format">466ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.data_Method_Customers_Our_Company_Careers()</td>
+          <td>1</td>
+          <td class="duration-format">564ms</td>
+          <td class="duration-format">564ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.user_eneters(String)</td>
+          <td>1</td>
+          <td class="duration-format">480ms</td>
+          <td class="duration-format">480ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.user_clicks_on_Subscribe_xeneta_toggle_button()</td>
+          <td>1</td>
+          <td class="duration-format">442ms</td>
+          <td class="duration-format">442ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+              <tr>
+                    
+          <td class="tagname">SmokeSteps.press_Terms_of_Service_links_are_present_in_footer()</td>
+          <td>1</td>
+          <td class="duration-format">206ms</td>
+          <td class="duration-format">206ms</td>
+          <td class="passed">100.0%</td>
+        </tr>
+          </tbody>
+
+    <tfoot>
+      <tr>
+        <td>24</td>
+        <td>50</td>
+        <td class="duration-format">2m 18s 737ms</td>
+        <td class="duration-format">02s 774ms</td>
+        <td>Totals</td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+
+<nav class="navbar navbar-default" id="footer">
+  <div class="container-fluid">
+    <p class="navbar-text navbar-right">
+      <a class="navbar-link" href="https://github.com/jenkinsci/cucumber-reports-plugin">Jenkins Plugin</a> |
+      <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-reporting">Cucumber-JVM Reports</a>
+    </p>
+  </div>
+</nav>
+
+</body>
+</html>

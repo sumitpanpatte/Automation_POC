@@ -1,0 +1,775 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4820625513,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "TC001-Localization: User able to change Language.",
+        "description": "",
+        "id": "media-resource-page;tc001-localization:-user-able-to-change-language.",
+        "after": [
+          {
+            "result": {
+              "duration": 878053116,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8684727550,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user navigates to media Resource page in English",
+            "match": {
+              "location": "SmokeSteps.user_navigates_to_media_Resource_page_in_English()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2367952277,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User clicks Deutsch language link",
+            "match": {
+              "location": "SmokeSteps.user_clicks_Deutsch_language_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2017879378,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "language should change to Deutsch",
+            "match": {
+              "location": "SmokeSteps.language_should_change_to_Deutsch()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3337744027,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "TC002-Verify body of Media Resource Page",
+        "description": "",
+        "id": "media-resource-page;tc002-verify-body-of-media-resource-page",
+        "after": [
+          {
+            "result": {
+              "duration": 869368398,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7381656487,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user navigates to media Resource page in English",
+            "match": {
+              "location": "SmokeSteps.user_navigates_to_media_Resource_page_in_English()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2593774359,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Product Screenshots link should work",
+            "match": {
+              "location": "SmokeSteps.product_Screenshots_link_should_work()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2403346941,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Xeneta Logo link should work",
+            "match": {
+              "location": "SmokeSteps.xeneta_Logo_link_should_work()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2400177616,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Spokpersons link should work",
+            "match": {
+              "location": "SmokeSteps.spokpersons_link_should_work()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2414756941,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Image of Founders link should work",
+            "match": {
+              "location": "SmokeSteps.image_of_Founders_link_should_work()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2778496777,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 30,
+        "name": "TC003-Verify user with valid email id is  able to sign up for news letter",
+        "description": "",
+        "id": "media-resource-page;tc003-verify-user-with-valid-email-id-is--able-to-sign-up-for-news-letter;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 836569912,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7986643676,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user navigates to media Resource page in English",
+            "match": {
+              "location": "SmokeSteps.user_navigates_to_media_Resource_page_in_English()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 715848730,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User enters \"sum.panpatte88@tcs.com\" to Sign up for news letter",
+            "match": {
+              "arguments": [
+                {
+                  "val": "sum.panpatte88@tcs.com",
+                  "offset": 13
+                }
+              ],
+              "location": "SmokeSteps.user_enters_to_Sign_up_for_news_letter(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 406132187,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User clicks submit button",
+            "match": {
+              "location": "SmokeSteps.user_clicks_submit_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3068257973,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "successful signing up message should be displayed",
+            "match": {
+              "location": "SmokeSteps.successful_signing_up_message_should_be_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2976532304,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 42,
+        "name": "TC004-Verify system throws error message when user enters non business emails like Gmail id to sign up for news letter",
+        "description": "",
+        "id": "media-resource-page;tc004-verify-system-throws-error-message-when-user-enters-non-business-emails-like-gmail-id-to-sign-up-for-news-letter;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 860494613,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9142699020,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "user navigates to media Resource page in English",
+            "match": {
+              "location": "SmokeSteps.user_navigates_to_media_Resource_page_in_English()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 826934453,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "User enters \"sum.panpatte88@gmail.com\" to Sign up for news letter",
+            "match": {
+              "arguments": [
+                {
+                  "val": "sum.panpatte88@gmail.com",
+                  "offset": 13
+                }
+              ],
+              "location": "SmokeSteps.user_enters_to_Sign_up_for_news_letter(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 438607636,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "User clicks submit button",
+            "match": {
+              "location": "SmokeSteps.user_clicks_submit_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2061352659,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "Error message to enter business email should be displayed",
+            "match": {
+              "location": "SmokeSteps.error_message_to_enter_business_email_should_be_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3419180599,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 54,
+        "name": "TC005-Verify system throws error message when user enters incorrect formatted email id to sign up for news letter.",
+        "description": "",
+        "id": "media-resource-page;tc005-verify-system-throws-error-message-when-user-enters-incorrect-formatted-email-id-to-sign-up-for-news-letter.;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 822390331,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7994234498,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "user navigates to media Resource page in English",
+            "match": {
+              "location": "SmokeSteps.user_navigates_to_media_Resource_page_in_English()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 582574494,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "User enters \"xtyzccgdgjh\" to Sign up for news letter",
+            "match": {
+              "arguments": [
+                {
+                  "val": "xtyzccgdgjh",
+                  "offset": 13
+                }
+              ],
+              "location": "SmokeSteps.user_enters_to_Sign_up_for_news_letter(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 338770397,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "User clicks submit button",
+            "match": {
+              "location": "SmokeSteps.user_clicks_submit_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2058678153,
+              "status": "passed"
+            },
+            "line": 50,
+            "name": "Error message to enter proper formatted email should be displayed",
+            "match": {
+              "location": "SmokeSteps.error_message_to_enter_proper_formatted_email_should_be_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Media Resource Page",
+    "description": "",
+    "id": "media-resource-page",
+    "keyword": "Feature",
+    "uri": "TC_MediaResource.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2555716534,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 29,
+        "name": "TC002-Verify system throws error message when any of the input box are not field",
+        "description": "",
+        "id": "request-demo-page;tc002-verify-system-throws-error-message-when-any-of-the-input-box-are-not-field;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 950942722,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9684119830,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user navigates to request demo page",
+            "match": {
+              "location": "SmokeSteps.user_navigates_to_request_demo_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2463156263,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user eneters \"\" \"\" \"xyz\" \"IT\" \"abc.dgt1@dmt.com\" \"9987\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 14
+                },
+                {
+                  "val": "",
+                  "offset": 17
+                },
+                {
+                  "val": "xyz",
+                  "offset": 20
+                },
+                {
+                  "val": "IT",
+                  "offset": 26
+                },
+                {
+                  "val": "abc.dgt1@dmt.com",
+                  "offset": 31
+                },
+                {
+                  "val": "9987",
+                  "offset": 50
+                }
+              ],
+              "location": "SmokeSteps.user_eneters(String,String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1328037800,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user selects from drop down \"Shipper/BCO\" \"Less than 500\" \"C-Level FRANK\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Shipper/BCO",
+                  "offset": 29
+                },
+                {
+                  "val": "Less than 500",
+                  "offset": 43
+                },
+                {
+                  "val": "C-Level FRANK",
+                  "offset": 59
+                }
+              ],
+              "location": "SmokeSteps.user_selects_from_drop_down(String,String,String)"
+            },
+            "matchedColumns": [
+              6,
+              7,
+              8
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 442693132,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user clicks on Subscribe xeneta toggle button",
+            "match": {
+              "location": "SmokeSteps.user_clicks_on_Subscribe_xeneta_toggle_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 458983796,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User clicks on submit",
+            "match": {
+              "location": "SmokeSteps.user_clicks_on_submit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2172264978,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "Please complete all required fields message should be displayed",
+            "match": {
+              "location": "SmokeSteps.please_complete_all_required_fields_message_should_be_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2642669039,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 43,
+        "name": "TC003-Verify system throws error message whem email id is incorrect format",
+        "description": "",
+        "id": "request-demo-page;tc003-verify-system-throws-error-message-whem-email-id-is-incorrect-format;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 896219336,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10412569692,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "user navigates to request demo page",
+            "match": {
+              "location": "SmokeSteps.user_navigates_to_request_demo_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 480827666,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "user eneters \"abc\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc",
+                  "offset": 14
+                }
+              ],
+              "location": "SmokeSteps.user_eneters(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 474994099,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "User clicks on submit",
+            "match": {
+              "location": "SmokeSteps.user_clicks_on_submit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2188151576,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "Email must be formatted correctly message should be displayed",
+            "match": {
+              "location": "SmokeSteps.email_must_be_formatted_correctly_message_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2168740745,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "Please complete all required fields message should be displayed",
+            "match": {
+              "location": "SmokeSteps.please_complete_all_required_fields_message_should_be_displayed()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2499771227,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.beforeScenario()"
+            }
+          }
+        ],
+        "line": 52,
+        "name": "TC005-Verify links to navigate to other webpages of Xeneta are present in footer",
+        "description": "",
+        "id": "request-demo-page;tc005-verify-links-to-navigate-to-other-webpages-of-xeneta-are-present-in-footer",
+        "after": [
+          {
+            "result": {
+              "duration": 919091197,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SmokeSteps.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7742312349,
+              "status": "passed"
+            },
+            "line": 54,
+            "name": "user navigates to request demo page",
+            "match": {
+              "location": "SmokeSteps.user_navigates_to_request_demo_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 564642178,
+              "status": "passed"
+            },
+            "line": 55,
+            "name": "Data Method, Customers, Our Company, Careers",
+            "match": {
+              "location": "SmokeSteps.data_Method_Customers_Our_Company_Careers()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 206726726,
+              "status": "passed"
+            },
+            "line": 56,
+            "name": "Press, Terms of Service links are present in footer",
+            "match": {
+              "location": "SmokeSteps.press_Terms_of_Service_links_are_present_in_footer()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Request Demo Page",
+    "description": "",
+    "id": "request-demo-page",
+    "keyword": "Feature",
+    "uri": "TC_RequestXenetaDemo.feature"
+  }
+]
