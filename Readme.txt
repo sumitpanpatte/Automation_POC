@@ -1,11 +1,19 @@
-Instruction on how to run:
-Click on Execute.bat file present in project folder
-
 Prerequisites to run:
 System should have setup to support java maven project. That is
 1) Java Runtime environment configured in system.
 2) Install and configure Maven.
 3) Google chrome and firefox should be installed in system
+
+Instruction on how to run:
+Approach 1)
+1) Please download project from above source code repository.
+2) Open project  folder and Click on Execute.bat file.
+3) Reports are generated at /target/site/cucumber-reports/
+
+Approach 2)
+1) Import the project from source code repository into Eclipse IDE as maven project.
+2) Run the TestRunner.java Class.
+
 
 Key feature of Framework:
 1) Use of Open source test automation tool selenium
